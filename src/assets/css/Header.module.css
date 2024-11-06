@@ -4,7 +4,7 @@
     flex-direction: row;
     justify-content: space-between;
     padding-inline: 4%;
-    padding-block: 3%;
+    padding-block: 3rem;
 }
 .logo {
     height: 36px;
